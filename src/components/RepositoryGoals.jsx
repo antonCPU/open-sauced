@@ -74,7 +74,7 @@ function RepositoryGoals({user}) {
                   {" "}
                   <h1>Dashboard</h1>
                   <p>
-                    Open Sauced is a project to track the contributions you would like to work on. Add a repository you are interested contributing to using the
+                    Open Sauced TEST is a project to track the contributions you would like to work on. Add a repository you are interested contributing to using the
                     Repository's owner and name, also known as the "nameWithOwner" format.
                   </p>
                   <small>
